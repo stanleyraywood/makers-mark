@@ -2,37 +2,34 @@
 
 ## Work
 
-- **Name:** Example App
-- **Version:** 1.0
-- **Date:** 2026-11-22
-- **Maker:** Alex Example
+- **Name:** Elwood and the Elves
+- **Type:** Short story
+- **Version:** Draft
+- **Maker:** Stanley Wood / WOOD OFFICE
 
 ## Who did what
 
 | Part | Made by | Notes |
 | --- | --- | --- |
-| Idea | Human | Alex defined the product. |
-| Design | Human | Alex designed the interface. |
-| Writing | Human | Alex wrote the copy. |
-| Code | AI | Claude Code wrote the code under Alex's direction. |
-| Testing | Both | Claude Code wrote tests. Alex tested the main tasks. |
-| Final review | Human | Alex approved the release. |
+| Idea | Human | Stanley created Elwood, the one-person office character, and imagined AI agents as elves. |
+| Direction | Human | Stanley defined the character and the Office. |
+| Story draft | AI | ChatGPT proposed a short story using the Elwood and elves idea. |
+| Final review | Human | Not yet recorded. |
 
 ## AI tools
 
-- **Claude Code (Anthropic)** — wrote and revised the application code and tests.
+- **ChatGPT (OpenAI)** — drafted the short story from Stanley's concept.
 
 ## What was checked
 
-- **Code review:** Alex did not read the code.
-- **Testing:** Alex used the app and checked the main tasks.
-- **Not checked:** A security audit and a full accessibility review.
+- **Editorial review:** Final review not recorded.
+- **Publication:** No approved final version recorded.
 
 ## Responsibility
 
-**Approved by:** Alex Example  
-**Problems:** Report through the project's issue tracker.
+**Maker:** Stanley Wood / WOOD OFFICE  
+**Status:** Draft.
 
 ---
 
-*Fictional example. Replace these details with your own.*
+*An example based on the Elwood story discussion. It does not claim the story has been published.*
