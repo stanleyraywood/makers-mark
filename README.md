@@ -2,15 +2,15 @@
 
 **If you put your name on the work, you take responsibility for it. Even when AI helped make it.**
 
-Add a `MADE.md` to your work. That file is your maker's mark.
+Add a `MARKED.md` to your work. That file is your maker's mark.
 
-It records who did what, which AI tools were used, what was checked and who approved the result.
+It records who contributed, what AI did, what was checked and who approved the result.
 
 ## Use
 
-Copy [EXAMPLE.md](EXAMPLE.md) into your project as `MADE.md`. Replace the example details with your own.
+Copy [EXAMPLE.md](EXAMPLE.md) into your project as `MARKED.md`. Replace the example details with your own.
 
-Use **Human**, **AI** or **Both** for each contribution. Name the people and tools. Add or remove rows to suit the work.
+Use **Human**, **AI** or **Both** for each contribution. Name the people and tools involved. Add or remove rows to suit the work.
 
 The file can accompany software, writing, images or other work.
 
@@ -19,20 +19,20 @@ The file can accompany software, writing, images or other work.
 Add this line to your project's README:
 
 ```markdown
-[MADE](MADE.md) — who made this, and how.
+[MARKED](MARKED.md) — who made this, and who stands behind it.
 ```
 
 Or use a badge:
 
 ```markdown
-[![Maker's Mark](https://img.shields.io/badge/Maker's%20Mark-MADE.md-black)](MADE.md)
+[![Maker's Mark](https://img.shields.io/badge/Maker's%20Mark-MARKED.md-black)](MARKED.md)
 ```
 
 ## Files
 
-- [MADE.md](MADE.md) — how this proposal was made.
+- [MARKED.md](MARKED.md) — the mark for this proposal.
 - [EXAMPLE.md](EXAMPLE.md) — an Elwood coding example.
 
-The mark is self-declared. It does not verify authorship, quality or ownership, or replace third-party credits.
+The mark is self-declared. It is not proof of authorship, quality or ownership, and does not replace third-party credits.
 
-A proposal by **Stanley Wood / WOOD OFFICE**. Draft 0.4.
+By **Stanley Wood / WOOD OFFICE**. Draft 0.5.
