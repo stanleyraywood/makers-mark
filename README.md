@@ -2,17 +2,31 @@
 
 **If you put your name on the work, you take responsibility for it. Even when AI helped make it.**
 
-`MADE.md` records who did what, which tools were used, what was checked and who approved the result.
+Add a `MADE.md` to your work. That file is your maker's mark.
 
-It doesn't claim the maker did every part. It makes the contributions clear.
+It records who did what, which AI tools were used, what was checked and who approved the result.
 
 ## Use
 
-Copy [EXAMPLE.md](EXAMPLE.md) into your project as `MADE.md`. Replace the example with your own details.
+Copy [EXAMPLE.md](EXAMPLE.md) into your project as `MADE.md`. Replace the example details with your own.
 
 Use **Human**, **AI** or **Both** for each contribution. Name the people and tools. Add or remove rows to suit the work.
 
 The file can accompany software, writing, images or other work.
+
+## Link to it
+
+Add this line to your project's README:
+
+```markdown
+[MADE](MADE.md) — who made this, and how.
+```
+
+Or use a badge:
+
+```markdown
+[![Maker's Mark](https://img.shields.io/badge/Maker's%20Mark-MADE.md-black)](MADE.md)
+```
 
 ## Files
 
