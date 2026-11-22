@@ -2,34 +2,36 @@
 
 ## Work
 
-- **Name:** Elwood and the Elves
-- **Type:** Short story
-- **Version:** Draft
-- **Maker:** Stanley Wood / WOOD OFFICE
+- **Name:** Post Room
+- **Purpose:** Rename receipts and file them by month.
+- **Maker:** Elwood, WOOD OFFICE
+- **Status:** Example
 
 ## Who did what
 
 | Part | Made by | Notes |
 | --- | --- | --- |
-| Idea | Human | Stanley created Elwood, the one-person office character, and imagined AI agents as elves. |
-| Direction | Human | Stanley defined the character and the Office. |
-| Story draft | AI | ChatGPT proposed a short story using the Elwood and elves idea. |
-| Final review | Human | Not yet recorded. |
+| Idea | Human | Elwood wanted to stop sorting receipts by hand. |
+| Design | Human | Elwood set the naming rules and folder structure. |
+| Code | AI | Codex wrote the utility from Elwood's instructions. |
+| Testing | Both | Codex wrote tests. Elwood checked the results with sample receipts. |
+| Final review | Human | Elwood approved what would be used at the Office. |
 
 ## AI tools
 
-- **ChatGPT (OpenAI)** — drafted the short story from Stanley's concept.
+- **Codex (OpenAI)** — wrote and revised the code and tests.
 
 ## What was checked
 
-- **Editorial review:** Final review not recorded.
-- **Publication:** No approved final version recorded.
+- **Code review:** Elwood did not read every line.
+- **Testing:** File names, folders and duplicate receipts checked using samples.
+- **Not checked:** Large batches and other document types.
 
 ## Responsibility
 
-**Maker:** Stanley Wood / WOOD OFFICE  
-**Status:** Draft.
+**Maker:** Elwood, WOOD OFFICE  
+**Problems:** Elwood handles them.
 
 ---
 
-*An example based on the Elwood story discussion. It does not claim the story has been published.*
+*Fictional example. No working utility or completed testing is claimed.*
