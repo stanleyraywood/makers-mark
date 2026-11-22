@@ -1,22 +1,20 @@
-# MAKER'S MARK
+# MARKED
 
 **If you put your name on the work, you take responsibility for it. Even when AI helped make it.**
 
-Add a `MARKED.md` to your work. That file is your maker's mark.
-
-It records who contributed, what AI did, what was checked and who approved the result.
+Add a `MARKED.md` to your project. It is your maker's mark: who contributed, what AI did, what you checked and who approved the work.
 
 ## Use
 
-Copy [EXAMPLE.md](EXAMPLE.md) into your project as `MARKED.md`. Replace the example details with your own.
+Copy [EXAMPLE.md](EXAMPLE.md) into your project as `MARKED.md`. Replace the example with your own details.
 
-Use **Human**, **AI** or **Both** for each contribution. Name the people and tools involved. Add or remove rows to suit the work.
+Use **Human**, **AI** or **Both** for each contribution. Name the people and tools. Add or remove rows as needed.
 
-The file can accompany software, writing, images or other work.
+Use it for software, writing, images or other work.
 
 ## Link to it
 
-Add this line to your project's README:
+Add this to your project's README:
 
 ```markdown
 [MARKED](MARKED.md) — who made this, and who stands behind it.
@@ -25,14 +23,14 @@ Add this line to your project's README:
 Or use a badge:
 
 ```markdown
-[![Maker's Mark](https://img.shields.io/badge/Maker's%20Mark-MARKED.md-black)](MARKED.md)
+[![MARKED](https://img.shields.io/badge/MARKED-credits-black)](MARKED.md)
 ```
 
 ## Files
 
-- [MARKED.md](MARKED.md) — the mark for this proposal.
-- [EXAMPLE.md](EXAMPLE.md) — an Elwood coding example.
+- [MARKED.md](MARKED.md) — how this proposal was made.
+- [EXAMPLE.md](EXAMPLE.md) — a coding example from Elwood's Office.
 
-The mark is self-declared. It is not proof of authorship, quality or ownership, and does not replace third-party credits.
+A mark is self-declared. It does not verify authorship, quality or ownership, or replace third-party credits.
 
-By **Stanley Wood / WOOD OFFICE**. Draft 0.5.
+Created by **Stanley Wood**. Published by **WOOD OFFICE**. Draft 0.6.
