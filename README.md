@@ -1,30 +1,24 @@
 # MAKER'S MARK
 
-Who made this, and how.
+**If you put your name on the work, you take responsibility for it. Even when AI helped make it.**
 
-A maker's mark records the people and AI tools involved in a piece of work. It says who did what, what was checked, and who approved the result.
+`MADE.md` records who did what, which tools were used, what was checked and who approved the result.
 
-## Responsibility
+It doesn't claim the maker did every part. It makes the contributions clear.
 
-You can work with an AI agent. It may write code, make images or draft text.
+## Use
 
-The maker still decides what to publish. Putting your name on the work means taking responsibility for the result, including the parts made with AI.
+Copy [EXAMPLE.md](EXAMPLE.md) into your project as `MADE.md`. Replace the example with your own details.
 
-That does not mean claiming to have done everything yourself. It means being clear about what you did, what the tools did, and what you checked.
+Use **Human**, **AI** or **Both** for each contribution. Name the people and tools. Add or remove rows to suit the work.
 
-## How to use it
-
-Copy [EXAMPLE.md](EXAMPLE.md) into your project as `MADE.md`. Replace the example details with your own.
-
-Use **Human**, **AI** or **Both** for each part. Name the people and tools in the notes. Change the parts to suit the work. Keep it brief.
-
-The file can sit alongside software, a book, a photograph or any other work.
+The file can accompany software, writing, images or other work.
 
 ## Files
 
-- [MADE.md](MADE.md) — how this project was made.
-- [EXAMPLE.md](EXAMPLE.md) — an example to copy.
+- [MADE.md](MADE.md) — how this proposal was made.
+- [EXAMPLE.md](EXAMPLE.md) — an Elwood story example.
 
-This is a voluntary statement by the maker. It is not independent proof of authorship or quality.
+The mark is self-declared. It does not verify authorship, quality or ownership, or replace third-party credits.
 
-**MAKER'S MARK** is a proposal by Stanley Wood / WOOD OFFICE. Draft 0.3.
+A proposal by **Stanley Wood / WOOD OFFICE**. Draft 0.4.
