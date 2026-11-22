@@ -11,16 +11,16 @@
 
 | Part | Made by | Notes |
 | --- | --- | --- |
-| Idea | Human | Stanley proposed a maker's label, modelled on food and clothing labels. |
-| Format | Both | Stanley chose `MARKED.md` and directed the format. Claude and ChatGPT contributed drafts. |
-| Writing | Both | Stanley reviewed the language and directed edits. Claude and ChatGPT drafted the text. |
+| Idea | Human | Stanley proposed a maker's label, modelled on food and clothing labels that took responsibility for what was made. |
+| Format | Both | Stanley chose `MARKED.md` and directed the format. Claude and ChatGPT contributed feedback. |
+| Writing | Both | Stanley drafted the text and directed edits. Claude and ChatGPT edited final text. |
 | GitHub files | AI | ChatGPT wrote and published the Markdown files under Stanley's direction. |
 | Final review | Human | Stanley's approval of this version is pending. |
 
 ## AI tools
 
-- **Claude (Anthropic)** — drafted an earlier version of the label.
-- **ChatGPT (OpenAI)** — wrote and edited files, and published them to GitHub.
+- **Claude (Anthropic)** — edited an earlier version of the label.
+- **ChatGPT (OpenAI)** — edited files, and published them to GitHub.
 
 ## What was checked
 
