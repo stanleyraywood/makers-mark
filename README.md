@@ -31,7 +31,7 @@ Or use a badge:
 ## Files
 
 - [MADE.md](MADE.md) — how this proposal was made.
-- [EXAMPLE.md](EXAMPLE.md) — an Elwood story example.
+- [EXAMPLE.md](EXAMPLE.md) — an Elwood coding example.
 
 The mark is self-declared. It does not verify authorship, quality or ownership, or replace third-party credits.
 
